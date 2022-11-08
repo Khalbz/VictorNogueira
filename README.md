@@ -8,7 +8,7 @@
   <img align="left" alt="Victor Nogueira Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://tenor.com/view/warhammer40000-wh40k-adeptus-mechanicus-connecting-connected-gif-15126141" />
+<img align="right" alt="GIF" src="https://media.tenor.com/rrRhdjdwrWUAAAAC/warhammer40000-wh40k.gif" />
 
 ### Sou Victor Nogueira
 - Bacharel em Direito.
