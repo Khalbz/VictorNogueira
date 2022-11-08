@@ -13,5 +13,4 @@
 ### Sou Victor Nogueira
 - Bacharel em Direito.
 - Iniciante em programação focando em se desenvolver em banco de dados. 
-- Atualmente iniciando em Estudos em Programação.
-- Atualmente procurando oportunidade de me reinserir no mercado de trabalho.
+- Procurando oportunidade no mercado de trabalho.
